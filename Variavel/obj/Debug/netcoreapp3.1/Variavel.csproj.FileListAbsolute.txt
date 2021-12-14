@@ -1,0 +1,15 @@
+C:\Paulo\Variavel\bin\Debug\netcoreapp3.1\Variavel.exe
+C:\Paulo\Variavel\bin\Debug\netcoreapp3.1\Variavel.deps.json
+C:\Paulo\Variavel\bin\Debug\netcoreapp3.1\Variavel.runtimeconfig.json
+C:\Paulo\Variavel\bin\Debug\netcoreapp3.1\Variavel.runtimeconfig.dev.json
+C:\Paulo\Variavel\bin\Debug\netcoreapp3.1\Variavel.dll
+C:\Paulo\Variavel\bin\Debug\netcoreapp3.1\Variavel.pdb
+C:\Paulo\Variavel\obj\Debug\netcoreapp3.1\Variavel.csproj.AssemblyReference.cache
+C:\Paulo\Variavel\obj\Debug\netcoreapp3.1\Variavel.Form1.resources
+C:\Paulo\Variavel\obj\Debug\netcoreapp3.1\Variavel.csproj.GenerateResource.cache
+C:\Paulo\Variavel\obj\Debug\netcoreapp3.1\Variavel.AssemblyInfoInputs.cache
+C:\Paulo\Variavel\obj\Debug\netcoreapp3.1\Variavel.AssemblyInfo.cs
+C:\Paulo\Variavel\obj\Debug\netcoreapp3.1\Variavel.csproj.CoreCompileInputs.cache
+C:\Paulo\Variavel\obj\Debug\netcoreapp3.1\Variavel.dll
+C:\Paulo\Variavel\obj\Debug\netcoreapp3.1\Variavel.pdb
+C:\Paulo\Variavel\obj\Debug\netcoreapp3.1\Variavel.genruntimeconfig.cache

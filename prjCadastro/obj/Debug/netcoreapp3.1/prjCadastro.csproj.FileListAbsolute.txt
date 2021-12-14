@@ -1,0 +1,15 @@
+C:\Paulo\prjCadastro\bin\Debug\netcoreapp3.1\prjCadastro.exe
+C:\Paulo\prjCadastro\bin\Debug\netcoreapp3.1\prjCadastro.deps.json
+C:\Paulo\prjCadastro\bin\Debug\netcoreapp3.1\prjCadastro.runtimeconfig.json
+C:\Paulo\prjCadastro\bin\Debug\netcoreapp3.1\prjCadastro.runtimeconfig.dev.json
+C:\Paulo\prjCadastro\bin\Debug\netcoreapp3.1\prjCadastro.dll
+C:\Paulo\prjCadastro\bin\Debug\netcoreapp3.1\prjCadastro.pdb
+C:\Paulo\prjCadastro\obj\Debug\netcoreapp3.1\prjCadastro.csproj.AssemblyReference.cache
+C:\Paulo\prjCadastro\obj\Debug\netcoreapp3.1\prjCadastro.Form1.resources
+C:\Paulo\prjCadastro\obj\Debug\netcoreapp3.1\prjCadastro.csproj.GenerateResource.cache
+C:\Paulo\prjCadastro\obj\Debug\netcoreapp3.1\prjCadastro.AssemblyInfoInputs.cache
+C:\Paulo\prjCadastro\obj\Debug\netcoreapp3.1\prjCadastro.AssemblyInfo.cs
+C:\Paulo\prjCadastro\obj\Debug\netcoreapp3.1\prjCadastro.csproj.CoreCompileInputs.cache
+C:\Paulo\prjCadastro\obj\Debug\netcoreapp3.1\prjCadastro.dll
+C:\Paulo\prjCadastro\obj\Debug\netcoreapp3.1\prjCadastro.pdb
+C:\Paulo\prjCadastro\obj\Debug\netcoreapp3.1\prjCadastro.genruntimeconfig.cache

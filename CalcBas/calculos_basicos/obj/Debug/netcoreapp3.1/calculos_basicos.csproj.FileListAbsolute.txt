@@ -1,0 +1,15 @@
+C:\Paulo\calculos_basicos\bin\Debug\netcoreapp3.1\calculos_basicos.exe
+C:\Paulo\calculos_basicos\bin\Debug\netcoreapp3.1\calculos_basicos.deps.json
+C:\Paulo\calculos_basicos\bin\Debug\netcoreapp3.1\calculos_basicos.runtimeconfig.json
+C:\Paulo\calculos_basicos\bin\Debug\netcoreapp3.1\calculos_basicos.runtimeconfig.dev.json
+C:\Paulo\calculos_basicos\bin\Debug\netcoreapp3.1\calculos_basicos.dll
+C:\Paulo\calculos_basicos\bin\Debug\netcoreapp3.1\calculos_basicos.pdb
+C:\Paulo\calculos_basicos\obj\Debug\netcoreapp3.1\calculos_basicos.csproj.AssemblyReference.cache
+C:\Paulo\calculos_basicos\obj\Debug\netcoreapp3.1\calculos_basicos.Form1.resources
+C:\Paulo\calculos_basicos\obj\Debug\netcoreapp3.1\calculos_basicos.csproj.GenerateResource.cache
+C:\Paulo\calculos_basicos\obj\Debug\netcoreapp3.1\calculos_basicos.AssemblyInfoInputs.cache
+C:\Paulo\calculos_basicos\obj\Debug\netcoreapp3.1\calculos_basicos.AssemblyInfo.cs
+C:\Paulo\calculos_basicos\obj\Debug\netcoreapp3.1\calculos_basicos.csproj.CoreCompileInputs.cache
+C:\Paulo\calculos_basicos\obj\Debug\netcoreapp3.1\calculos_basicos.dll
+C:\Paulo\calculos_basicos\obj\Debug\netcoreapp3.1\calculos_basicos.pdb
+C:\Paulo\calculos_basicos\obj\Debug\netcoreapp3.1\calculos_basicos.genruntimeconfig.cache
